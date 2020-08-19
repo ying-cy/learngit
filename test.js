@@ -1,2 +1,3 @@
 fix bug
-console.log('hello, rebase');
+why not error?
+output.console.log('hello, rebase');
