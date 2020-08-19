@@ -1,0 +1,4 @@
+/home/yilia/桌面/CMKAE-PRACTICE/clanglib-test/CMakeFiles/rebuild_cache.dir
+/home/yilia/桌面/CMKAE-PRACTICE/clanglib-test/CMakeFiles/edit_cache.dir
+/home/yilia/桌面/CMKAE-PRACTICE/clanglib-test/CMakeFiles/intrinsics_gen.dir
+/home/yilia/桌面/CMKAE-PRACTICE/clanglib-test/CMakeFiles/hello-world.dir

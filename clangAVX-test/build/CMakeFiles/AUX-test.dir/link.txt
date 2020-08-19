@@ -1,0 +1,1 @@
+/usr/bin/cc  -mavx2 CMakeFiles/AUX-test.dir/test.c.o -o AUX-test 

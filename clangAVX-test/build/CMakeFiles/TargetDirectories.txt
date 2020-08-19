@@ -1,0 +1,3 @@
+/home/yilia/桌面/CMKAE-PRACTICE/clangAVX-test/build/CMakeFiles/rebuild_cache.dir
+/home/yilia/桌面/CMKAE-PRACTICE/clangAVX-test/build/CMakeFiles/AUX-test.dir
+/home/yilia/桌面/CMKAE-PRACTICE/clangAVX-test/build/CMakeFiles/edit_cache.dir

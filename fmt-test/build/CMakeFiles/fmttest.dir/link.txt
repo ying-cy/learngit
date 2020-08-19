@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fmttest.dir/test.cpp.o -o fmttest   -L/home/yilia/桌面/CMKAE-PRACTICE/fmt-test/.  -Wl,-rpath,/home/yilia/桌面/CMKAE-PRACTICE/fmt-test/. -lfmt 

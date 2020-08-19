@@ -1,0 +1,5 @@
+/home/yilia/桌面/CMKAE-PRACTICE/addLibrary/build/CMakeFiles/rebuild_cache.dir
+/home/yilia/桌面/CMKAE-PRACTICE/addLibrary/build/CMakeFiles/edit_cache.dir
+/home/yilia/桌面/CMKAE-PRACTICE/addLibrary/build/lib/CMakeFiles/rebuild_cache.dir
+/home/yilia/桌面/CMKAE-PRACTICE/addLibrary/build/lib/CMakeFiles/edit_cache.dir
+/home/yilia/桌面/CMKAE-PRACTICE/addLibrary/build/lib/CMakeFiles/hello.dir

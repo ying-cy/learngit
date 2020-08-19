@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yilia/桌面/CMKAE-PRACTICE/addLibrary/lib/hello.c
+hello.h
+/home/yilia/桌面/CMKAE-PRACTICE/addLibrary/lib/hello.h
+
+/home/yilia/桌面/CMKAE-PRACTICE/addLibrary/lib/hello.h
+stdio.h
+-
+
